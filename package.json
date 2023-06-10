@@ -1,0 +1,15 @@
+{
+  "name": "retenir",
+  "version": "1.0.0",
+  "description": "Simple learning tool",
+  "private": "true",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "shevqnov",
+  "license": "ISC",
+  "workspaces": [
+    "client",
+    "api"
+  ]
+}
